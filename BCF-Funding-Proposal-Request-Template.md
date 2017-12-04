@@ -1,55 +1,62 @@
 # ![BCF Logo Round Tiny](https://raw.githubusercontent.com/The-Bitcoin-Cash-Fund/Branding/master/BCF%20Symbol%20Round%20Tiny.png) BCF Funding Proposal Request Template
 
 
-**Project Name:** [Insert a project name here. Make sure it is unique and easy to refer to.]
+**Project Name:** Cash is King in Detroit
 
 
-**Start Date:** [Insert the date that the github repo and BCF Chat room was created]
+**Start Date:** 12/4/2017
 
 
-**Hashtag:** [Insert a project hashtag that can used on social media to discuss the project.]
+**Hashtag:** #CashisKingDetroit
 
 
-**Name of BCF Chat room:** [Insert the name of the specific BCF chat room created for the project.]
+**Name of BCF Gitter community room:** Cash is King
 
 
 **Stakeholders:** 
-
-[Insert the list of people initially involved in the project. Pseudonymous identities can be used also.]
+Stephen Lacey
+Shaun Richardson
 
 
 **Project Summary:** 
 
-[Insert a short summary (a paragraph or two) of the project]
+Cash is King, will be an open invitational in Detroit. Over 50 businesses in the city will be invited to a 2 hour seminar on Bitcoin Cash. This will include what Bitcoin Cash is, why businesses should accept it, and where to get support. There will be a question and answer session following the presentation. The analytics will be shared with the Bitcoin Cash Fund community, to help efficency and promote better events.
+
+
 
 
 **Resources:**
 
-[Insert a list of resources required including; skills, manpower, knowledge, services, materials, connections]
+Resources include our team. BitDetroit has a working relationship with several businesses in the City already. BitDetroit has been promoting cryptocurrency adoption in the city for over a year. With the recent fork and the creation of Bitcoin Cash, the coin our clients have been asking for has arrived. Our credibility in this space is an asset. Further resources include free advertising on local NPR.
 
 
 **Budget:**
 
-[Insert an itemised list of the what must be paid for in the budget, a rough schedule when the funding is needed, and a total of the required funding.]
-
+The budget required is $3200    
+    This includes   Room Rental at TechTown Detroit                                                                $1400
+                    Poster Campaign in Detroit (Artwork supplied by local School contest, furthering exposure)     $1200 (4 winners     
+                    First 20 businesses to accept the RSVP get $10 in BCH                                          $200 
+                    Refreshments                                                                                   $200
+                    Misc (Gas,presentation materials,etc)                                                          $200
+                    
+                    
+      
 
 **Timeline:** 
 
-[Insert a project timeline here what will be happening when.]
+The timeline for this project has a date to be determined, estimated at january 13th. The poster campaign will have a deadline of january 5th, allowing students the time to work on it during school break. We are currently working out a time with TechTown Detroit for the Cash is King Conference.
 
 
 **Goals:**
 
-[Insert a list of clearly defined list of goals including: 
-    - who you want to reach, 
-    - how many people you want to reach, 
-    - where are the people you want to reach,
-    - why you want to reach them.]
+The goals of this project are three fold. First, a small poster campaign will be launched, with designs coming from local high school and college students. This creates interest and something to talk about over christmas break with parents and relatives. Secondly, a cold pitch approach to inviting businesses will be used to garner support and interest. This includes visiting in person, and inviting them to the conference. At this time we will gather any questions they have, and find the answers before the conference. Thirdly, the conference will act as a launch point, with a presentation on what Bitcoin Cash is, and what it can do for the businesses that choose to accept it. The question and answer session that follows will be prepared for, with proper answers, links, and support.
+
+This project aims to reach over 10,000 people directly, with participants showing up numbering between 150 and 200. The main focus will be on business implementation however I expect that due to the exposure, many individuals will come as well.
 
 
 **Other:**
 
-[Insert any other information that should be known about the project.]
+The information obtained from this project will be disseminated and used to create better and more effective conferences. Ideally, any Bitcoin Cash enthusiast should be able to obtain a copy of frequently the encountered questions and their answers from the conference. Networking businesses to a support circle is another aim. We will create a mailing list that every attendee can be linked to, regarding support and updates. Representing Bitcoin Cash accurately is important. Our conference will recorded, and hopefully used as a template going forward.
 
 ## Use S.M.A.R.T Principles When writing the BCF FPR
 
